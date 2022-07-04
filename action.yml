@@ -1,5 +1,5 @@
-name: 'Katalon Studio'
-description: 'Execute Katalon Studio projects'
+name: 'Poriyaalar Katalon Studio'
+description: 'Poriyaalar Execute Katalon Studio projects'
 inputs:
       version:
             description: 'Which version of Katalon Studio to run'
